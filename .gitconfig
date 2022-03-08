@@ -1,3 +1,9 @@
 [user]
 	name = zunema
-	email = 65650872+zunema@users.noreply.github.com
+	email = yxxa.abc@gmail.com
+[core]
+	editor = code --wait
+[merge]
+	tool = code --wait \"$MERGED\"
+[push]
+	default = simple

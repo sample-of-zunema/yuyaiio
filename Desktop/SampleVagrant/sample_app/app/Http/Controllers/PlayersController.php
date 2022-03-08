@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 
 namespace App\Http\Controllers;
 
@@ -12,4 +12,4 @@ class PlayersController extends Controller
         $players = Player::all();
         return view('players.index', compact('players'));
     }
-}
+} -->

@@ -1,4 +1,4 @@
-<table>
+<!-- <table>
   <tr>
     <th>ID</th>
     <th>背番号</th>
@@ -21,4 +21,8 @@
     <td>{{ $player->weight }}</td>
   </tr>
 @endforeach
-</table>
+</table> -->
+
+<?php
+phpinfo();
+?>
